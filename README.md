@@ -1,3 +1,4 @@
+|[logo](https://github.com/MotiSinghg5/motisinghg5/blob/main/banner.webp)
 <h1 align="center">Hi 👋, I'm Moti Singh</h1>
 <h3 align="center">A passionate Senior Manager(java developer) from India</h3>
 
